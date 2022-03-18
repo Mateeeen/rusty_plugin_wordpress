@@ -1,0 +1,5 @@
+/wp
+/.wp-tests
+xdebug*out
+
+.DS_Store
